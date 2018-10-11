@@ -10,7 +10,13 @@ screenshots/
 server-resource-packs/
 shaderpacks/
 texturepacks/
-1213309934
-minetweaker.log
-options.txt
-usernamecache.json
+
+/1213309934
+/options.txt
+/usernamecache.json
+
+*.log
+
+journeymap/data/
+journeymap/colorpalette.json
+journeymap/journeymap.log
