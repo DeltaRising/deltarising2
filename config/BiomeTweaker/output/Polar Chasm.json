@@ -1,0 +1,273 @@
+
+{
+  "ID": 120,
+  "Name": "Polar Chasm",
+  "Class": "biomesoplenty.common.biome.nether.BiomeGenPolarChasm",
+  "Color": 11091006,
+  "Root Height": 0.1,
+  "Height Variation": 0.2,
+  "Top Block": "BiomesOPlenty:hardIce",
+  "Filler Block": "BiomesOPlenty:hardIce",
+  "Grass Color": "Not set. Check in-game.",
+  "Foliage Color": "Not set. Check in-game.",
+  "Water Color": "16777215",
+  "Temperature": 2.0,
+  "Humidity": 0.0,
+  "Water Tint": 16777215,
+  "Enable Rain": false,
+  "Enable Snow": false,
+  "Dictionary Types": [
+    "HOT",
+    "DRY",
+    "SAVANNA",
+    "PLAINS"
+  ],
+  "BiomeManager Entries": {},
+  "Spawnable Creatures": [],
+  "Spawnable Monsters": [
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntityGhast",
+      "Weight": 50,
+      "Min Group Count": 4,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntityPigZombie",
+      "Weight": 100,
+      "Min Group Count": 4,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntityMagmaCube",
+      "Weight": 1,
+      "Min Group Count": 4,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "cofh.thermalfoundation.entity.monster.EntityBlitz",
+      "Weight": 10,
+      "Min Group Count": 1,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityRocketCreeper",
+      "Weight": 5,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityRocketCreeper",
+      "Weight": 7,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityRocketCreeper",
+      "Weight": 6,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityRocketCreeper",
+      "Weight": 5,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityFestiveCreeper",
+      "Weight": 2,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityFestiveCreeper",
+      "Weight": 3,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityFestiveCreeper",
+      "Weight": 2,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityFestiveCreeper",
+      "Weight": 2,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntitySupportCreeper",
+      "Weight": 1,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntitySupportCreeper",
+      "Weight": 2,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntitySupportCreeper",
+      "Weight": 2,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntitySupportCreeper",
+      "Weight": 1,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityTreasureSlime",
+      "Weight": 5,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityTreasureSlime",
+      "Weight": 6,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityTreasureSlime",
+      "Weight": 5,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityTreasureSlime",
+      "Weight": 5,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityHauntedTool",
+      "Weight": 2,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityHauntedTool",
+      "Weight": 2,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityHauntedTool",
+      "Weight": 2,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityHauntedTool",
+      "Weight": 2,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityDMimic",
+      "Weight": 2,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityDMimic",
+      "Weight": 2,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityDMimic",
+      "Weight": 2,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityDMimic",
+      "Weight": 2,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityDEnchantedBook",
+      "Weight": 3,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityDEnchantedBook",
+      "Weight": 3,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityDEnchantedBook",
+      "Weight": 3,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityDEnchantedBook",
+      "Weight": 3,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.passive.EntityLostMiner",
+      "Weight": 2,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.passive.EntityLostMiner",
+      "Weight": 3,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.passive.EntityLostMiner",
+      "Weight": 2,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.passive.EntityLostMiner",
+      "Weight": 2,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityDSkeletonWarrior",
+      "Weight": 1,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityDSkeletonWarrior",
+      "Weight": 1,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityDSkeletonWarrior",
+      "Weight": 1,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityDSkeletonWarrior",
+      "Weight": 1,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    }
+  ],
+  "Spawnable Water Creatures": [],
+  "Spawnable Cave Creatures": [],
+  "Spawn Biome": false,
+  "Tweaked": false
+}

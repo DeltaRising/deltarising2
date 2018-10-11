@@ -17,5 +17,6 @@ texturepacks/
 
 journeymap/data/
 journeymap/colorpalette.json
+journeymap/colorpalette.html
 
 *.log
