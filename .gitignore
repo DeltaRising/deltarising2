@@ -4,9 +4,9 @@ coremods/
 imcScripts/
 logs/
 resourcepacks/
-saves/*
+saves/
 schematics/
-screenshots/*
+screenshots/
 server-resource-packs/
 shaderpacks/
 texturepacks/
@@ -15,8 +15,7 @@ texturepacks/
 /options.txt
 /usernamecache.json
 
-*.log
-
 journeymap/data/
 journeymap/colorpalette.json
-journeymap/journeymap.log
+
+*.log
