@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 3,
   "name": "JourneyMap Color Palette",
-  "generated": "Generated using JourneyMap 5.1.4p2 Unlimited for 1.7.10 on Wed Oct 10 16:11:46 MSK 2018",
+  "generated": "Generated using JourneyMap 5.1.4p2 Unlimited for 1.7.10 on Thu Oct 11 12:41:36 MSK 2018",
   "description": [
     "This file can be used to keep map colors consistent when changing resource packs.",
     "Edit at your own risk. You can view it using the colorpalette.html file.",
@@ -11,7 +11,7 @@ var colorpalette={
   ],
   "permanent": false,
   "resourcePacks": "Default",
-  "modNames": "Advanced Solar Panels:1.7.10-3.5.1, AppleCore:3.1.1, Applied Energistics 2:rv2-stable-10, AppliedEnergistics2 Core:rv2-stable-10, ArmorStatusHUD:1.28, Avaritia:1.13, Avaritiaddons:1.4b, BC Builders:7.1.23, BC Energy:7.1.23, BC Factory:7.1.23, BC Robotics:7.1.23, BC Silicon:7.1.23, BC Transport:7.1.23, BD Lib:1.9.4.109, BackTools:4.0.0, Better Foliage:2.0.17, Better Questing:2.0.233, BiblioCraft:1.11.7, BiblioWoods Biomes O\u0027Plenty Edition:1.9, BiblioWoods Forestry Edition:1.7, Biomes O\u0027 Plenty:2.1.0, BuildCraft Compat:7.1.7, BuildCraft:7.1.23, Carpenter\u0027s Blocks:3.3.8.1, ChatFlow:1.1, Chisel Tones:@VERSION@, Chisel:2.9.5.11, Chunk Animator:@VERSION@, CoFH ASM:000, CoFH Core:1.7.10R3.1.4, CodeChicken Core:1.0.7.47, Compacter:1.2.1.15, Crafting Tweaks:1.0.88, Custom Main Menu:1.9.2, DeltaRising 2:1.7.10R1.0.1, Dynamic Surroundings:1.0.6.2, EnderStorage:1.4.7.38, Extra Cells 2:2.3.14, Extra Utilities:1.2.12, FTB Tweaks:1.0.2, FTBLib:1.0.18.2, FTBUtilities:1.0.18.2, Fast Leaf Decay:1.4, FastCraft:1.25, Forestry for Minecraft:4.2.16.64, Forge Microblocks:1.2.0.347, Forge Mod Loader:7.10.99.99, Forge Multipart:1.2.0.347, GTTweaker:1.0, Graviation Suite:1.7.10-2.0.3, Greg\u0027s Lighting:1.11.2, GregTech:MC1710, HatStand:4.0.0, Hats:4.0.1, Hunger Overhaul:1.7.10-1.0.0.jenkins104, Immersive Engineering:0.7.7, Immersive Integration:0.6.8, IndustrialCraft 2:2.2.828-experimental, Inventory Tweaks:1.59-dev-152-cf6e263, Iron Chest Minecarts:1.0.4, Iron Chest:6.0.62.742, IvToolkit:1.2.1, JourneyMap:5.1.4p2, LunatriusCore:1.1.2.21, MFR Compat: Applied Energistics:1.7.10R2.8.2B1, MFR Compat: BuildCraft:1.7.10R2.8.2B1, MFR Compat: Forestry:1.7.10R2.8.2B1, MFR Compat: ForgeMicroblock:1.7.10R2.8.2B1, MFR Compat: IC2:1.7.10R2.8.2B1, MFR Compat: Railcraft:1.7.10R2.8.2B1, MFR Compat: Thermal Expansion:1.7.10R2.8.2B1, MFR Compat: Tinkers\u0027 Construct:1.7.10R2.8.2B1, MFR Compat: Vanilla:1.7.10R2.8.2B1, MTUtils:1.6, Mantle:1.7.10-0.3.2.jenkins191, MineFactory Reloaded:1.7.10R2.8.2B1, MineTweaker 3:3.0.10, Minecraft Coder Pack:9.05, Minecraft Forge:10.13.4.1614, Minecraft Multipart Plugin:1.2.0.347, Mod Tweaker 2:0.9.5, Morpheus:1.7.10-1.6.21, NEI Addons: Applied Energistics 2:1.12.14.40, NEI Addons: Botany:1.12.14.40, NEI Addons: Crafting Tables:1.12.14.40, NEI Addons: Developer Tools:1.12.14.40, NEI Addons: Ex Nihilo:1.12.14.40, NEI Addons: Forestry:1.12.14.40, NEI Addons:1.12.14.40, NEI Integration:1.1.2, Not Enough Items:1.0.5.120, Not Enough Resources:0.1.0.ManuallyBuilt, Nuclear Control 2:2.4.3a, OpenBlocks:1.6, OpenComputers (Core):1.7.2.1166, OpenComputers:1.7.2.1166, OpenMods:0.10, OpenModsCore:0.10, Pam\u0027s HarvestCraft:1.7.10j, Pressure Pipes:1.3.0.130, Primitive Mobs:1.0, Railcraft Cosmetic Additions:2.1.3, Railcraft:9.12.2.1, Recurrent Complex:0.9.7.1.1, Redstone Arsenal:1.7.10R1.1.2, Resource Loader:1.0, Road Stuff:1.0.3-final, Schematica:1.7.6.131, Shatter:4.0.0, Simply Jetpacks:1.5.3, Solar Flux:1.7.10-0.8b, StartingInventory:1.7.10.r03, StatusEffectHUD:1.27, Steve\u0027s Addons:0.10.16, Steve\u0027s Factory Manager:A93, Storage Drawers NEI Fix:1.0, Storage Drawers: Biomes O\u0027 Plenty Pack:1.7.10-1.1.1, Storage Drawers: Forestry Pack:1.7.10-1.1.2, Storage Drawers: Misc Pack:1.7.10-1.1.2, Storage Drawers:1.7.10-1.10.9, Streak:4.0.0, Sync:4.0.1, Thermal Dynamics:1.7.10R1.2.1, Thermal Expansion:1.7.10R4.1.5, Thermal Foundation:1.7.10R1.2.6, Tinkers\u0027 Construct:1.7.10-1.8.8.build988, Translocator:1.1.2.16, WR-CBE Addons:1.4.1.11, WR-CBE Core:1.4.1.11, WR-CBE Logic:1.4.1.11, Waila:1.5.10, WanionLib:1.7.10-1.8, What Are We Looking At:1.3.1, World-Tooltips:1.2.3, Ztones:1.7.10, bspkrsCore:6.16, iChunUtil:4.2.3",
+  "modNames": "Advanced Solar Panels:1.7.10-3.5.1, AppleCore:3.1.1, Applied Energistics 2:rv2-stable-10, AppliedEnergistics2 Core:rv2-stable-10, ArmorStatusHUD:1.28, Avaritia:1.13, Avaritiaddons:1.4b, BC Builders:7.1.23, BC Energy:7.1.23, BC Factory:7.1.23, BC Robotics:7.1.23, BC Silicon:7.1.23, BC Transport:7.1.23, BD Lib:1.9.4.109, BackTools:4.0.0, Better Foliage:2.0.17, BiblioCraft:1.11.7, BiblioWoods Biomes O\u0027Plenty Edition:1.9, BiblioWoods Forestry Edition:1.7, BiomeTweaker:2.0.182, Biomes O\u0027 Plenty:2.1.0, BuildCraft Compat:7.1.7, BuildCraft:7.1.23, Carpenter\u0027s Blocks:3.3.8.1, ChatFlow:1.1, Chisel Tones:@VERSION@, Chisel:2.9.5.11, Chunk Animator:@VERSION@, Climate Control:0.8.1, CoFH ASM:000, CoFH Core:1.7.10R3.1.4, CodeChicken Core:1.0.7.47, Compacter:1.2.1.15, Crafting Tweaks:1.0.88, DeltaRising 2:1.7.10R1.0.1, Dynamic Surroundings:1.0.6.2, EnderStorage:1.4.7.38, Extra Cells 2:2.3.14, Extra Utilities:1.2.12, FTB Tweaks:1.0.2, FTBLib:1.0.18.2, FTBUtilities:1.0.18.2, Fast Leaf Decay:1.4, FastCraft:1.25, Forestry for Minecraft:4.2.16.64, Forge Microblocks:1.2.0.347, Forge Mod Loader:7.10.99.99, Forge Multipart:1.2.0.347, GTTweaker:1.0, Graviation Suite:1.7.10-2.0.3, Greg\u0027s Lighting:1.11.2, GregTech:MC1710, HatStand:4.0.0, Hats:4.0.1, Hunger Overhaul:1.7.10-1.0.0.jenkins104, Immersive Engineering:0.7.7, Immersive Integration:0.6.8, IndustrialCraft 2:2.2.828-experimental, Inventory Tweaks:1.59-dev-152-cf6e263, Iron Chest Minecarts:1.0.4, Iron Chest:6.0.62.742, IvToolkit:1.2.1, JourneyMap:5.1.4p2, LunatriusCore:1.1.2.21, MFR Compat: Applied Energistics:1.7.10R2.8.2B1, MFR Compat: BuildCraft:1.7.10R2.8.2B1, MFR Compat: Forestry:1.7.10R2.8.2B1, MFR Compat: ForgeMicroblock:1.7.10R2.8.2B1, MFR Compat: IC2:1.7.10R2.8.2B1, MFR Compat: Railcraft:1.7.10R2.8.2B1, MFR Compat: Thermal Expansion:1.7.10R2.8.2B1, MFR Compat: Tinkers\u0027 Construct:1.7.10R2.8.2B1, MFR Compat: Vanilla:1.7.10R2.8.2B1, MTUtils:1.6, Mantle:1.7.10-0.3.2.jenkins191, MineFactory Reloaded:1.7.10R2.8.2B1, MineTweaker 3:3.0.10, Minecraft Coder Pack:9.05, Minecraft Forge:10.13.4.1614, Minecraft Multipart Plugin:1.2.0.347, Mod Tweaker 2:0.9.5, Morpheus:1.7.10-1.6.21, NEI Addons: Applied Energistics 2:1.12.14.40, NEI Addons: Botany:1.12.14.40, NEI Addons: Crafting Tables:1.12.14.40, NEI Addons: Developer Tools:1.12.14.40, NEI Addons: Ex Nihilo:1.12.14.40, NEI Addons: Forestry:1.12.14.40, NEI Addons:1.12.14.40, NEI Integration:1.1.2, Not Enough Items:1.0.5.120, Not Enough Resources:0.1.0.ManuallyBuilt, Nuclear Control 2:2.4.3a, OpenBlocks:1.6, OpenComputers (Core):1.7.2.1166, OpenComputers:1.7.2.1166, OpenMods:0.10, OpenModsCore:0.10, Pam\u0027s HarvestCraft:1.7.10j, Pressure Pipes:1.3.0.130, Primitive Mobs:1.0, Railcraft Cosmetic Additions:2.1.3, Railcraft:9.12.2.1, Redstone Arsenal:1.7.10R1.1.2, Resource Loader:1.0, Road Stuff:1.0.3-final, Schematica:1.7.6.131, Simply Jetpacks:1.5.3, Solar Flux:1.7.10-0.8b, StartingInventory:1.7.10.r03, StatusEffectHUD:1.27, Steve\u0027s Addons:0.10.16, Steve\u0027s Factory Manager:A93, Storage Drawers NEI Fix:1.0, Storage Drawers: Biomes O\u0027 Plenty Pack:1.7.10-1.1.1, Storage Drawers: Forestry Pack:1.7.10-1.1.2, Storage Drawers: Misc Pack:1.7.10-1.1.2, Storage Drawers:1.7.10-1.10.9, Streak:4.0.0, Sync:4.0.1, Thermal Dynamics:1.7.10R1.2.1, Thermal Expansion:1.7.10R4.1.5, Thermal Foundation:1.7.10R1.2.6, Tinkers\u0027 Construct:1.7.10-1.8.8.build988, Translocator:1.1.2.16, WR-CBE Addons:1.4.1.11, WR-CBE Core:1.4.1.11, WR-CBE Logic:1.4.1.11, Waila:1.5.10, WanionLib:1.7.10-1.8, What Are We Looking At:1.3.1, World-Tooltips:1.2.3, Ztones:1.7.10, bspkrsCore:6.16, iChunUtil:4.2.3",
   "basicColors": [
     {
       "name": ".name",
@@ -12808,7 +12808,7 @@ var colorpalette={
       "name": "Burnt Quartz",
       "uid": "ExtraUtilities:decorativeBlock1",
       "meta": 2,
-      "color": "#5c5c5b"
+      "color": "#5c5c5c"
     },
     {
       "name": "Button",
@@ -19698,7 +19698,7 @@ var colorpalette={
       "name": "Ender-Sand Alloy",
       "uid": "ExtraUtilities:decorativeBlock1",
       "meta": 13,
-      "color": "#5b5b5b"
+      "color": "#5c5c5b"
     },
     {
       "name": "Ender-Thermic Pump",
@@ -21586,13 +21586,13 @@ var colorpalette={
       "name": "Fluix Block",
       "uid": "appliedenergistics2:tile.BlockFluix",
       "meta": 0,
-      "color": "#5c5c5b"
+      "color": "#5c5c5c"
     },
     {
       "name": "Fluix Stairs",
       "uid": "appliedenergistics2:tile.FluixStairBlock",
       "meta": 0,
-      "color": "#5c5c5b"
+      "color": "#5c5c5c"
     },
     {
       "name": "Fluix Wire Coil",
@@ -22419,7 +22419,7 @@ var colorpalette={
       "name": "Glass Bricks",
       "uid": "ExtraUtilities:decorativeBlock2",
       "meta": 2,
-      "color": "#5c5c5c",
+      "color": "#5b5b5b",
       "alpha": 0.4
     },
     {
@@ -24657,7 +24657,7 @@ var colorpalette={
       "name": "Ineffable Glass (Inverted)",
       "uid": "ExtraUtilities:etherealglass",
       "meta": 4,
-      "color": "#5c5c5b",
+      "color": "#5c5c5c",
       "alpha": 0.4
     },
     {
@@ -29855,7 +29855,7 @@ var colorpalette={
       "name": "ME Security Terminal",
       "uid": "appliedenergistics2:tile.BlockSecurity",
       "meta": 0,
-      "color": "#5c5c5c"
+      "color": "#5b5b5b"
     },
     {
       "name": "ME Transformer",
@@ -31556,12 +31556,6 @@ var colorpalette={
       "color": "#5c5c5c"
     },
     {
-      "name": "Maze Generator",
-      "uid": "reccomplex:maze_generator",
-      "meta": 0,
-      "color": "#b49664"
-    },
-    {
       "name": "Mead",
       "uid": "Forestry:fluid.mead",
       "meta": 0,
@@ -33096,12 +33090,6 @@ var colorpalette={
       "uid": "harvestcraft:pamoatsCrop",
       "meta": 0,
       "color": "#c6bf6d"
-    },
-    {
-      "name": "Object Submission Station (OSS)",
-      "uid": "betterquesting:submit_station",
-      "meta": 0,
-      "color": "#694e27"
     },
     {
       "name": "Obsidian",
@@ -36137,7 +36125,7 @@ var colorpalette={
       "color": "#a579a5"
     },
     {
-      "name": "QED (Quantum Emission Decompiler)",
+      "name": "QED (Quite Expensive Decoration)",
       "uid": "ExtraUtilities:endConstructor",
       "meta": 0,
       "color": "#3d5a45"
@@ -36219,7 +36207,7 @@ var colorpalette={
       "name": "Quartz Grindstone",
       "uid": "appliedenergistics2:tile.BlockGrinder",
       "meta": 0,
-      "color": "#5c5c5b"
+      "color": "#5c5c5c"
     },
     {
       "name": "Quartz Slab",
@@ -39538,7 +39526,7 @@ var colorpalette={
       "name": "Sky Stone",
       "uid": "appliedenergistics2:tile.BlockSkyStone",
       "meta": 0,
-      "color": "#5c5c5c"
+      "color": "#5b5b5b"
     },
     {
       "name": "Sky Stone Block",
@@ -39574,7 +39562,7 @@ var colorpalette={
       "name": "Sky Stone Chest",
       "uid": "appliedenergistics2:tile.BlockSkyChest",
       "meta": 0,
-      "color": "#5c5c5c"
+      "color": "#5b5b5b"
     },
     {
       "name": "Sky Stone Small Brick",
@@ -39592,7 +39580,7 @@ var colorpalette={
       "name": "Sky Stone Stairs",
       "uid": "appliedenergistics2:tile.SkyStoneStairBlock",
       "meta": 0,
-      "color": "#5c5c5c"
+      "color": "#5b5b5b"
     },
     {
       "name": "Slab Furnace",
@@ -39849,102 +39837,6 @@ var colorpalette={
       "color": "#142c52"
     },
     {
-      "name": "Solid (0 ~ Natural Floor)",
-      "uid": "reccomplex:generic_solid",
-      "meta": 0,
-      "color": "#bea553"
-    },
-    {
-      "name": "Solid (1 ~ Barrier)",
-      "uid": "reccomplex:generic_solid",
-      "meta": 1,
-      "color": "#d06161"
-    },
-    {
-      "name": "Solid (10)",
-      "uid": "reccomplex:generic_solid",
-      "meta": 10,
-      "color": "#8f5eb8"
-    },
-    {
-      "name": "Solid (11)",
-      "uid": "reccomplex:generic_solid",
-      "meta": 11,
-      "color": "#5e68b7"
-    },
-    {
-      "name": "Solid (12)",
-      "uid": "reccomplex:generic_solid",
-      "meta": 12,
-      "color": "#b18465"
-    },
-    {
-      "name": "Solid (13)",
-      "uid": "reccomplex:generic_solid",
-      "meta": 13,
-      "color": "#92b164"
-    },
-    {
-      "name": "Solid (14)",
-      "uid": "reccomplex:generic_solid",
-      "meta": 14,
-      "color": "#b8615e"
-    },
-    {
-      "name": "Solid (15)",
-      "uid": "reccomplex:generic_solid",
-      "meta": 15,
-      "color": "#928484"
-    },
-    {
-      "name": "Solid (2)",
-      "uid": "reccomplex:generic_solid",
-      "meta": 2,
-      "color": "#ad62b3"
-    },
-    {
-      "name": "Solid (3)",
-      "uid": "reccomplex:generic_solid",
-      "meta": 3,
-      "color": "#627db4"
-    },
-    {
-      "name": "Solid (4)",
-      "uid": "reccomplex:generic_solid",
-      "meta": 4,
-      "color": "#c3ba53"
-    },
-    {
-      "name": "Solid (5)",
-      "uid": "reccomplex:generic_solid",
-      "meta": 5,
-      "color": "#65b85e"
-    },
-    {
-      "name": "Solid (6)",
-      "uid": "reccomplex:generic_solid",
-      "meta": 6,
-      "color": "#b26479"
-    },
-    {
-      "name": "Solid (7)",
-      "uid": "reccomplex:generic_solid",
-      "meta": 7,
-      "color": "#8b8b8b"
-    },
-    {
-      "name": "Solid (8)",
-      "uid": "reccomplex:generic_solid",
-      "meta": 8,
-      "color": "#888e8e"
-    },
-    {
-      "name": "Solid (9)",
-      "uid": "reccomplex:generic_solid",
-      "meta": 9,
-      "color": "#609db6"
-    },
-    {
       "name": "Solid Fueled Boiler Firebox",
       "uid": "Railcraft:machine.beta",
       "meta": 5,
@@ -40089,102 +39981,6 @@ var colorpalette={
       "color": "#5e8737"
     },
     {
-      "name": "Space (0 ~ Negative Space)",
-      "uid": "reccomplex:generic_space",
-      "meta": 0,
-      "color": "#a7f2ff"
-    },
-    {
-      "name": "Space (1 ~ Natural Air)",
-      "uid": "reccomplex:generic_space",
-      "meta": 1,
-      "color": "#0079ff"
-    },
-    {
-      "name": "Space (10)",
-      "uid": "reccomplex:generic_space",
-      "meta": 10,
-      "color": "#7e3db5"
-    },
-    {
-      "name": "Space (11)",
-      "uid": "reccomplex:generic_space",
-      "meta": 11,
-      "color": "#2e388d"
-    },
-    {
-      "name": "Space (12)",
-      "uid": "reccomplex:generic_space",
-      "meta": 12,
-      "color": "#4f321f"
-    },
-    {
-      "name": "Space (13)",
-      "uid": "reccomplex:generic_space",
-      "meta": 13,
-      "color": "#35461b"
-    },
-    {
-      "name": "Space (14)",
-      "uid": "reccomplex:generic_space",
-      "meta": 14,
-      "color": "#963430"
-    },
-    {
-      "name": "Space (15)",
-      "uid": "reccomplex:generic_space",
-      "meta": 15,
-      "color": "#191616"
-    },
-    {
-      "name": "Space (2)",
-      "uid": "reccomplex:generic_space",
-      "meta": 2,
-      "color": "#b350bc"
-    },
-    {
-      "name": "Space (3)",
-      "uid": "reccomplex:generic_space",
-      "meta": 3,
-      "color": "#6a8ac9"
-    },
-    {
-      "name": "Space (4)",
-      "uid": "reccomplex:generic_space",
-      "meta": 4,
-      "color": "#b1a627"
-    },
-    {
-      "name": "Space (5)",
-      "uid": "reccomplex:generic_space",
-      "meta": 5,
-      "color": "#41ae38"
-    },
-    {
-      "name": "Space (6)",
-      "uid": "reccomplex:generic_space",
-      "meta": 6,
-      "color": "#d08499"
-    },
-    {
-      "name": "Space (7)",
-      "uid": "reccomplex:generic_space",
-      "meta": 7,
-      "color": "#404040"
-    },
-    {
-      "name": "Space (8)",
-      "uid": "reccomplex:generic_space",
-      "meta": 8,
-      "color": "#9aa1a1"
-    },
-    {
-      "name": "Space (9)",
-      "uid": "reccomplex:generic_space",
-      "meta": 9,
-      "color": "#2e6e89"
-    },
-    {
       "name": "Spatial IO Port",
       "uid": "appliedenergistics2:tile.BlockSpatialIOPort",
       "meta": 0,
@@ -40195,12 +39991,6 @@ var colorpalette={
       "uid": "appliedenergistics2:tile.BlockSpatialPylon",
       "meta": 0,
       "color": "#5c5c5c"
-    },
-    {
-      "name": "Spawn Script Block",
-      "uid": "reccomplex:spawn_script",
-      "meta": 0,
-      "color": "#ada564"
     },
     {
       "name": "Spectral Fern",
@@ -42450,12 +42240,6 @@ var colorpalette={
       "meta": 0,
       "color": "#2e3032",
       "alpha": 0.4
-    },
-    {
-      "name": "Structure Generator",
-      "uid": "reccomplex:structure_generator",
-      "meta": 0,
-      "color": "#ada564"
     },
     {
       "name": "Sugar Canes",
@@ -56852,12 +56636,6 @@ var colorpalette={
       "uid": "harvestcraft:sink",
       "meta": 3,
       "color": "#3e515b"
-    },
-    {
-      "name": "tile.spawn_command.name",
-      "uid": "reccomplex:weighted_command_block",
-      "meta": 0,
-      "color": "#856c43"
     },
     {
       "name": "§cAccess Point§7",
