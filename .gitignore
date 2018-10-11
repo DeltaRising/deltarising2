@@ -4,9 +4,9 @@ coremods/
 imcScripts/
 logs/
 resourcepacks/
-saves/
+saves/*
 schematics/
-screenshots/
+screenshots/*
 server-resource-packs/
 shaderpacks/
 texturepacks/
