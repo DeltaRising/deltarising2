@@ -1,0 +1,32 @@
+
+#01 DIAMOND [TODO] - diamond, dilithium, monazite, apatite, uvarovite
+#02 DULL [TODO] - (over9000) Li, Al, P, S, B, C, As, Sn, Ir, Pb, Nt, Enderium, Silicon Rubber, PTFE, Graphene, etc.
+#03 EMERALD [TODO] - emerald, jasper
+#04 FIERY [TODO] - pyrotheum
+#05 FINE [TODO] - charcoal, salt, saltpeter, marble, rare earth, bastnasite, lepidolite, borax
+#06 FLINT [TODO] - flint, amethyst, niter, phosphorus, dolomite, kyanite, volcanic ashes
+#07 FLUID [TODO] - sodium bisulfate, polydimethylsiloxane, phosphorous pentoxide, sodium sulfide
+#08 GEM_HORIZONTAL [TODO] - rutile, green sapphire, topaz, blue topaz
+#09 GEM_VERTICAL [TODO] - sapphire, tanzanite
+#10 GLASS [TODO] - glass, borosilicate glass
+#11 LAPIS [TODO] - lazurite, sodalite, lapis
+#12 LEAF [TODO] - ?
+#13 LIGNITE [TODO] - lignite
+#14 MAGNETIC [TODO] - magnetic iron, steel, neodimium
+#15 METALLIC [WIP] - Be, Na, Mg, Si, K, Ca, Ti, V, Fe, Co, Ni, Zn, Y, Nb, In, W, Os, Bronze, Brass, Invar, Steel, Tungstensteel, etc.
+#16 NETHERSTAR [TODO] - nether star
+#17 NONE [TODO] - oilsands, lumium (and other custom materials by default)
+#18 OPAL [TODO] - opal
+#19 PAPER [TODO] - chad
+#20 POWDER [TODO] - platinum group sludge, flour
+#21 QUARTZ [TODO] - certus quartz, nether quartz, quartzite, silicon dioxide
+#22 ROUGH [TODO] - stone, coal, Ni-Zn Ferrite, brick, fireclay, clay, almandine, cinnabar, pyrite, black/red granite, etc.
+#23 RUBY [TODO] - ruby, olivine, red/yellow garnet
+#24 SAND [TODO] - basaltic/granitic mineral sand, cassiterite sand, garnet sand, quartz sand
+#25 SHARDS [TODO] - ?
+#26 SHINY [TODO] - Cr, Cu, Ga, Mo, Pd, Ag, Cd, Sb, Pt, Au, Th, Stainess Steel, NqX, V3Ga, Enderpearl/eye, Styrene-Butadiene, Rubber
+#27 WOOD [TODO] - wood, sealed wood
+
+DUST = 0/27
+PLATE = 0/27
+INGOT = 0/27
